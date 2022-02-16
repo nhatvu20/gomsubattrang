@@ -55,10 +55,11 @@ html{
 .search {
     background-color: #941a1f;
     position: absolute;
-    top: 31px;
-    right: 598px;;
+    top: 30px;
+    right: 600px;
     padding: 10.5px;
     color: #fff;
+    border: 1px solid white;
 }
 
 .ti-search:before {
